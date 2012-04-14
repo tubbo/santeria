@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": 1334376779,
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"CoffeeScript",
+		"CTags",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"SublimeLinter"
+	]
+}
