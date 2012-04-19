@@ -63,5 +63,7 @@
 	"trim_trailing_white_space_on_save": true,
 	"sublimelinter_executable_map": {
 	    "ruby": "$HOME/.rvm/rubies/ruby-1.9.3-p125-perf/bin/ruby -s"
-	}
+	},
+  "word_wrap": true,
+  "wrap_width": 100
 }

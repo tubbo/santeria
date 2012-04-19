@@ -1,6 +1,11 @@
 {
-	"extensions":
-	[
-		"rb"
+	"extensions": [
+		"rb",
+        "Gemfile",
+        "rake",
+        "Rakefile",
+        "Guardfile",
+        "Capfile",
+        "ru"
 	]
 }

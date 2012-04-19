@@ -1,14 +1,28 @@
 {
-	"auto_upgrade_last_run": 1334376779,
+	"auto_upgrade_last_run": 1334846233,
 	"installed_packages":
 	[
 		"Alignment",
 		"ApacheConf.tmLanguage",
+		"Backbone.js",
+		"BufferScroll",
+		"Clipboard History",
 		"CoffeeScript",
+		"ColorPicker",
 		"CTags",
+		"Cucumber",
+		"Gist",
+		"Git",
+		"Haml",
+		"jQuery",
 		"LESS",
 		"Markdown Preview",
+		"Nettuts+ Fetch",
 		"Package Control",
-		"SublimeLinter"
+		"SCSS",
+		"Sublime Tweet",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"VintageEx"
 	]
 }
