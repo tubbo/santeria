@@ -57,13 +57,15 @@
 	"ignored_packages":
 	[
 	],
+	"sublimelinter_executable_map":
+	{
+		"ruby": "$HOME/.rvm/rubies/ruby-1.9.3-p125-perf/bin/ruby -s"
+	},
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"sublimelinter_executable_map": {
-	    "ruby": "$HOME/.rvm/rubies/ruby-1.9.3-p125-perf/bin/ruby -s"
-	},
-  "word_wrap": true,
-  "wrap_width": 100
+	"word_wrap": true,
+	"wrap_width": 100,
+	"vintage_start_in_command_mode": true
 }
