@@ -1,0 +1,4 @@
+{
+	"last_test_file": "payment_transaction_test.rb",
+	"last_test_run": "cd /Users/tom/Code/elocal/ && bundle exec ruby -Itest test/unit/payment_transaction_test.rb"
+}

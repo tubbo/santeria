@@ -1,3 +1,26 @@
 [
+  // open test in split view and switch between them
+  {
+    "keys": ["super+e"],
+    "command": "switch_between_code_and_test",
+    "args": { "split_view": true },
+    "context" : [
+      { "key": "selector", "operator": "equal", "operand": "source.ruby", "match_all": true }
+    ]
+  },
 
+  // redefine this useful shortcut since RubyTest blows it away
+  { "keys": ["super+shift+t"], "command": "reopen_last_file" },
+
+  // overload "," to access all settings
+  {
+    "keys": ["super+,"],
+    "command": "open_file",
+    "args": {"file": "${packages}/User/Preferences.sublime-settings"}
+  },
+  {
+    "keys": ["super+shift+,"],
+    "command": "open_file",
+    "args": {"file": "${packages}/User/Default (OSX).sublime-keymap"}
+  }
 ]

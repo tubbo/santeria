@@ -1,10 +1,11 @@
 {
-	"auto_upgrade_last_run": 1335212346,
+	"auto_upgrade_last_run": 1336159193,
 	"installed_packages":
 	[
 		"Alignment",
 		"ApacheConf.tmLanguage",
 		"Backbone.js",
+		"BeautifyRuby",
 		"BufferScroll",
 		"Clipboard History",
 		"CoffeeScript",
@@ -13,15 +14,16 @@
 		"Cucumber",
 		"Gist",
 		"Git",
+		"Guard",
 		"Haml",
 		"jQuery",
 		"LESS",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"RubyTest",
 		"SCSS",
 		"Sublime Tweet",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"VintageEx"
 	]
